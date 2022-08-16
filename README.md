@@ -1,5 +1,17 @@
-# Getting Started with Create React App
+# Password Generator - Scrimba
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed at the [link here.](https://react-paginate-tutorial.netlify.app/)
 
-Brad traversy tutorial.
+### `Summary`
+
+This excercise follows a tutorial to create pagination without the use of pre-existing React packages or modules.
+
+### `Languages / Techstack`
+
+- React
+
+### `Resources`
+
+#### Simple Pagination React - Brad Traversy
+
+https://www.youtube.com/watch?v=IYCa1F-OWmk
